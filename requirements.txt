@@ -12,4 +12,5 @@ httpx
 
 # SQLAlchemy
 sqlalchemy
+psycopg  # for PostgreSQL
 
